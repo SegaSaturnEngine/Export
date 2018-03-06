@@ -3,7 +3,7 @@
 
 using namespace std;
 
-iMr main ();
+int main ();
 {
 const int export("iso");
 const class filetype();
